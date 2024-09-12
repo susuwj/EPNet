@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # (AAAI 2023 Oral) Efficient Edge-Preserving Multi-View Stereo Network for Depth Estimation 
 
 # Environment
@@ -44,3 +45,7 @@ bash scripts/test_eth.sh
 
 # Acknowledge
 We have incorporated certain release codes from [Casmvsnet](https://github.com/alibaba/cascade-stereo) and [Vis-MVSNet](https://github.com/jzhangbs/Vis-MVSNet) and extend our gratitude for their excellent work
+=======
+# EPNet
+Efficient Edge-Preserving Multi-view Stereo Network for Depth Estimation, AAAI2023
+>>>>>>> 2a99004fb35e54878b88f3e7beff7640e3b38455
