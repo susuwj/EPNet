@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # (AAAI 2023 Oral) Efficient Edge-Preserving Multi-View Stereo Network for Depth Estimation 
 
 # Environment
