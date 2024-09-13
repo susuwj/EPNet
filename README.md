@@ -43,4 +43,4 @@ bash scripts/test_eth.sh
 ```
 
 ### Acknowledge
-Our work is partially based on these opening source work: [Casmvsnet](https://github.com/alibaba/cascade-stereo) and [Vis-MVSNet](https://github.com/jzhangbs/Vis-MVSNet) Thanks for their contributions to the MVS community
+Our work is partially based on these opening source work: [Casmvsnet](https://github.com/alibaba/cascade-stereo) and [Vis-MVSNet](https://github.com/jzhangbs/Vis-MVSNet). Thanks for their contributions to the MVS community
