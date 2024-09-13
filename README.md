@@ -1,12 +1,12 @@
-# (AAAI 2023 Oral) Efficient Edge-Preserving Multi-View Stereo Network for Depth Estimation 
+## Efficient Edge-Preserving Multi-View Stereo Network for Depth Estimation (AAAI 2023 Oral) 
 
-# Environment
+### Environment
 - PyTorch 1.4.0
 - Python 3.7
 - open3d 0.9.0.0
 - numpy 1.20.3
 
-# Scripts
+### Scripts
 #### 1. train on DTU
 ```bash
 bash scripts/train_dtu.sh
@@ -29,9 +29,9 @@ bash scripts/test_tt.sh
 bash scripts/test_eth.sh
 ```
 
-# Citation
+### Citation
 ```bibtex
-@inproceedings{Su2023Dmvsnet,
+@inproceedings{Su2023epnet,
   title={Efficient Edge-Preserving Multi-View Stereo Network for Depth Estimation},
   author={Su, Wanjuan and Tao, Wenbing},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
@@ -42,9 +42,5 @@ bash scripts/test_eth.sh
 }
 ```
 
-# Acknowledge
-We have incorporated certain release codes from [Casmvsnet](https://github.com/alibaba/cascade-stereo) and [Vis-MVSNet](https://github.com/jzhangbs/Vis-MVSNet) and extend our gratitude for their excellent work
-=======
-# EPNet
-Efficient Edge-Preserving Multi-view Stereo Network for Depth Estimation, AAAI2023
->>>>>>> 2a99004fb35e54878b88f3e7beff7640e3b38455
+### Acknowledge
+Our work is partially based on these opening source work: [Casmvsnet](https://github.com/alibaba/cascade-stereo) and [Vis-MVSNet](https://github.com/jzhangbs/Vis-MVSNet) Thanks for their contributions to the MVS community
